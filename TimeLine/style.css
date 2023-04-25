@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.heading {
+  color: lightblue;
+  text-align: center;
+  border: 3px lavenderblush solid;
+  padding: 10px;
+  font-size: 53px;
+}
+
+.content {
+  color: wheat;
+  text-align: center;
+  margin-top: 50px;
+  border: 3px red solid;
+  padding: 35px;
+  width: 70%;
+}
+/* 
+.content:hover {
+  color: aquamarine;
+} */
+
+.sub-content {
+  border: 1px lightcyan solid;
+  padding: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 27px;
+  padding: 30px;
+}
+
+.sub-content:hover {
+  color: aquamarine;
+}
